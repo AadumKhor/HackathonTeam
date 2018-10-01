@@ -8,3 +8,11 @@ Year: 3
 E-mail Id: ritviksinghrautela@gmail.com 
 LinkedIn Id: https://www.linkedin.com/in/ritviksinghrautela/
 Github: https://github.com/Ritzing
+
+Name: Aayush Malhotra
+Mobile : 9953610152
+DOB: 17/07/1999
+College : USICT , GGSIPU
+Year : 2
+Email: aayushm864@gmail.com
+Github : https://github.com/AadumKhor
